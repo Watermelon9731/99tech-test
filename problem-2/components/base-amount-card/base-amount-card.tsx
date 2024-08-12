@@ -31,7 +31,7 @@ export default function BaseAmountCard({
   return (
     <Card>
       <CardHeader>
-        <CardTitle className="text-xl">{title}</CardTitle>
+        <CardTitle className="text-xl xs:text-lg">{title}</CardTitle>
       </CardHeader>
       <CardContent>
         <div className="flex justify-between">

@@ -27,7 +27,7 @@ export default function RootLayout({
           fontSans.variable
         )}
       >
-        <div className="w-2/3 max-h-fit m-auto border rounded-lg p-10">
+        <div className="w-2/3 max-h-fit m-auto border rounded-lg p-10 xs:w-full bg-gray-100">
           <h1 className="text-center text-3xl font-extrabold tracking-tight">
             Currency Swap
           </h1>
